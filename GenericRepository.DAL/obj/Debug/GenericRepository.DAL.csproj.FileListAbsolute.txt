@@ -1,0 +1,10 @@
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.dll.config
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.dll
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\GenericRepository.DAL.pdb
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.dll
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.xml
+C:\git\private\GenericRepository\GenericRepository.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\private\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.csprojResolveAssemblyReference.cache
+C:\git\private\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.dll
+C:\git\private\GenericRepository\GenericRepository.DAL\obj\Debug\GenericRepository.DAL.pdb
